@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d17w
-- 👀 I’m interested in pragrama
+- 👀 I’m interested in programa
 - 🌱 I’m currently learning phyton
 
 <!---
